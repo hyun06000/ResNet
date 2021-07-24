@@ -1,0 +1,5 @@
+/logs/
+/saved_model/
+
+*.out
+*.log
